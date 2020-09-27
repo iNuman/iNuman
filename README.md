@@ -2,7 +2,7 @@
 
 I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development, Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with **Ami Apex** and [**Khyber Coded**](http://khybercoded.com/) as a Android Intern. I am currently working as an Android developer at **Lines Square Technologies** and **Coded Universe**.
+In the past, I have worked with **Ami Apex** and [**Khyber Coded**](http://khybercoded.com/) as a Android Intern. I am currently working as an Android developer at [**Lines Square Technologies**](https://linesquaretech.com/) and **Coded Universe**.
 
 Currently, I am looking for a full-time role in Android Development or Internship in Machine Learning or related field. 
 
