@@ -14,7 +14,7 @@ In the past, I have worked with **Ami Apex** and [**Khyber Coded**](http://khybe
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/10feRZccYCBIqXKMWx1WO2xqVqFSV3bM_/view)
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1sD1jxg75VfnA9S_vSyim8bARiN2ez1do/view)
 
 
 ### How to reach me 📱
