@@ -3,6 +3,7 @@
 I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
 Currently Working in : [**Funprime Technologies**](https://funprimetechnology.com/)
+
 Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/) and [**Lines Square Technologies**](https://linesquaretech.com/)
 
 ### Things I'm good at :fire:
