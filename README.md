@@ -1,11 +1,11 @@
 ![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
-I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development, Data Science, Machine Learning and Deep Learning.
+I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with **Ami Apex** and [**Khyber Coded**](http://khybercoded.com/) as an Android Intern. Currently I am working as full time Android developer at [**Lines Square Technologies**](https://linesquaretech.com/) and **Coded Universe** part time.
+In the past, I have worked with [**Khyber Coded**](http://khybercoded.com/) and [**Lines Square Technologies**](https://linesquaretech.com/) as Android Developer. Currently in [**Funprime Technologies**](https://funprimetechnology.com/). 
 
 ### Things I'm good at :fire:
-**Languages:** Android Kotlin, Java, Python, SQL.
+**Languages:** Android Kotlin, Java, Python.
 
 **Architectures:** MVVM
 
@@ -14,7 +14,7 @@ In the past, I have worked with **Ami Apex** and [**Khyber Coded**](http://khybe
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1sD1jxg75VfnA9S_vSyim8bARiN2ez1do/view)
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1_WtU0CYmeS7zWPERo0LOYJnkIyLfupcw/view?usp=sharing)
 
 
 ### How to reach me 📱
