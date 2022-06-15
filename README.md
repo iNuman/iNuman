@@ -1,13 +1,16 @@
 ![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
-I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
+I’m a Computer Science graduate of 2020 batch as well as Android developer since 2018 enjoying each and every day of native development in both Kotlin and Java. I've developed countless apps for both clients as well as playstore. I came with an extensive experience of working on different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
 Currently Working in : [**Leed | Software Development Company**](https://www.leeddev.io/)
 
 Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
 
-### Things I'm good at :fire:
+### Things I'm good at:
 **Languages:** Android Kotlin, Java, Python.
+
+### Things I hate:
+I don't like data structures and interview questions I just love developing real world projects which will be use by millions of peoples around the globe
 
 **Architectures:** MVVM
 
