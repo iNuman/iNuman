@@ -2,16 +2,16 @@
 
 I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
-Currently Working in : [**Funprime Technologies**](https://funprimetechnology.com/)
+Currently Working in : [**Leed | Software Development Company**](https://www.leeddev.io/)
 
-Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/) and [**Lines Square Technologies**](https://linesquaretech.com/)
+Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
 
 ### Things I'm good at :fire:
 **Languages:** Android Kotlin, Java, Python.
 
 **Architectures:** MVVM
 
-**Libraries & Tools Android:** Retrofit, Material Design, GitHub, Third Party libraries, UI/UX, Android Studio IDE, Payment Gateways, Room, Dagger Hilt, Firebase.
+**Libraries & Tools Android:** Retrofit, Material Design, GitHub, Third Party libraries, UI/UX, Android Studio IDE, Payment Gateways, Room, Dagger Hilt, Firebase, Jira, Slack, Trello, Google Meet, Figma
 
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
