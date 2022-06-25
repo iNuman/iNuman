@@ -6,11 +6,11 @@ Currently Working in : [**Leed | Software Development Company**](https://www.lee
 
 Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
 
-### Things I'm good at:
-**Languages:** Android Kotlin, Java, Python.
-
 ### Things I hate:
 I don't like data structures and interview questions I just love developing real world projects which will be use by millions of peoples around the globe
+
+### Things I'm good at:
+**Languages:** Android Kotlin, Java, Python.
 
 **Architectures:** MVVM
 
