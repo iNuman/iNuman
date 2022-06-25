@@ -19,7 +19,7 @@ I don't like data structures and interview questions I just love developing real
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1_WtU0CYmeS7zWPERo0LOYJnkIyLfupcw/view?usp=sharing)
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1vLrlDuHKvM8Xm5M4rKfwAX5l6cam80U4/view?usp=sharing)
 
 
 ### How to reach me 📱
