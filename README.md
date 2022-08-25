@@ -14,12 +14,12 @@ I don't like data structures and interview questions I just love developing real
 
 **Architectures:** MVVM
 
-**Libraries & Tools Android:** Retrofit, Material Design, GitHub, Third Party libraries, UI/UX, Android Studio IDE, Payment Gateways, Room, Dagger Hilt, Firebase, Jira, Slack, Trello, Google Meet, Figma
+**Libraries & Tools Android:** Kotlin, Java, Flutter(Basic), Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Animations, Data Caching (Network Bound Resources), Firebase, One Signal push notifications, Material Design Guidelines (MDC), Static/Dynamic Json, Third Party libraries, Elastic Search, Rest Api, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Jetpack Compose(Beginner), Android Studio IDE, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet.
 
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1vLrlDuHKvM8Xm5M4rKfwAX5l6cam80U4/view?usp=sharing)
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1LRtt5sbhldj3H6kpxuSpfTgTLDKugH71/view?usp=sharing)
 
 
 ### How to reach me 📱
