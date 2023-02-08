@@ -6,9 +6,6 @@ Currently Working in : [**Leed | Software Development Company**](https://www.lee
 
 Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
 
-### Things I hate:
-I don't like data structures and interview questions I just love developing real world projects which will be use by millions of peoples around the globe
-
 ### Things I'm good at:
 **Languages:** Android Kotlin, Java, Python.
 
@@ -19,7 +16,7 @@ I don't like data structures and interview questions I just love developing real
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1LRtt5sbhldj3H6kpxuSpfTgTLDKugH71/view?usp=sharing)
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)
 
 
 ### How to reach me 📱
