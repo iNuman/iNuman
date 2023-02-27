@@ -6,6 +6,9 @@ Currently Working in : [**Leed | Software Development Company**](https://www.lee
 
 Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
 
+### Currently learning
+IOS Swift UI/Storyboard, Compose
+
 ### Things I'm good at:
 **Languages:** Android Kotlin, Java, Python.
 
