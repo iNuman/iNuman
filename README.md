@@ -2,16 +2,17 @@
 
 I’m a Computer Science graduate of 2020 batch as well as Android developer since 2018 enjoying each and every day of native development in both Kotlin and Java. I've developed countless apps for both clients as well as playstore. I came with an extensive experience of working on different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
-Currently Working in : [**Leed | Software Development Company**](https://www.leeddev.io/)
+Currently Working in : [**Convo**](https://www.convo.com)
 
-Organizations I have worked on : [**Khyber Coded**](http://khybercoded.com/), [**Lines Square Technologies**](https://linesquaretech.com/) and  [**Funprime Technologies**](https://funprimetechnology.com/)
+Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**Funprime Technologies**](https://funprimetechnology.com/),  [**Lines Square Technologies**](https://linesquaretech.com/) and [**Khyber Coded**](http://khybercoded.com/)  
 
 ### Currently learning
 IOS Swift UI/Storyboard, Compose
 
 ### Things I'm good at:
-**Languages:** Android Kotlin, Java, Python.
-
+**Languages:** Android Kotlin, Java.
+### Extra:
+**Languages:** Python, Swift, C/C++, HTML, CSS
 **Architectures:** MVVM
 
 **Libraries & Tools Android:** Kotlin, Java, Flutter(Basic), Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Animations, Data Caching (Network Bound Resources), Firebase, One Signal push notifications, Material Design Guidelines (MDC), Static/Dynamic Json, Third Party libraries, Elastic Search, Rest Api, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Jetpack Compose(Beginner), Android Studio IDE, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet.
