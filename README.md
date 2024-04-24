@@ -4,7 +4,7 @@ I’m a Computer Science graduate of 2020 batch as well as Android developer sin
 
 Currently Working in : [**Convo**](https://www.convo.com)
 
-Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**Funprime Technologies**](https://funprimetechnology.com/),  [**Lines Square Technologies**](https://linesquaretech.com/) and [**Khyber Coded**](http://khybercoded.com/)  
+Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**Funprime Technologies**](https://funprimetechnology.com/),  [**Lines Square Technologies**](https://linesquaretech.com/), [**Khyber Coded**](http://khybercoded.com/)  
 
 ### Currently learning
 Compose
