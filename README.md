@@ -7,7 +7,7 @@ Currently Working in : [**Convo**](https://www.convo.com)
 Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**Funprime Technologies**](https://funprimetechnology.com/),  [**Lines Square Technologies**](https://linesquaretech.com/) and [**Khyber Coded**](http://khybercoded.com/)  
 
 ### Currently learning
-IOS Swift UI/Storyboard, Compose
+Compose
 
 ### Things I'm good at:
 **Languages:** Android Kotlin, Java.
