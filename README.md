@@ -2,9 +2,9 @@
 
 Computer Science graduate with 4 years of experience in the industry. I've worked as an Android developer since 2020, and enjoy collaborating with different product areas and functions: scrum, refinement, design UI/UX. Currently working as Mid Senior Android developer.
 I value the following aspects from a company and role: 
-• Challenging projects.
-• Great values and teammates.
-• Growth opportunities, career plan, feedback, and goals. focus on the customer/end user, customer satisfaction and quality assurance
+- Challenging projects.
+- Great values and teammates.
+- Growth opportunities, career plan, feedback, and goals. focus on the customer/end user, customer satisfaction and quality assurance
 
 Currently Working in : [**Convo**](https://www.convo.com)
 
