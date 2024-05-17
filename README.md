@@ -1,28 +1,54 @@
 ![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
-Computer Science graduate with 4 years of experience in the industry. I've worked as an Android developer since 2020, and enjoy collaborating with different product areas and functions: scrum, refinement, design UI/UX. Currently working as Mid Senior Android developer.
-I value the following aspects from a company and role: 
-- Challenging projects.
-- Great values and teammates.
-- Growth opportunities, career plan, feedback, and goals. focus on the customer/end user, customer satisfaction and quality assurance
+# Experienced Android Developer | Computer Science Graduate
 
-Currently Working in : [**Convo**](https://www.convo.com)
+With 4 years of industry experience, I have honed my skills as an Android developer since 2020, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently positioned as a Android Developer at **[Convo](https://www.convo.com)**, I thrive in environments that challenge me and provide opportunities for growth and innovation.
 
-Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/),  [**Lines Square Technologies**](https://linesquaretech.com/), [**Khyber Coded**](http://khybercoded.com/)  
+## Professional Experience:
+- **[Leed | Software Development Company](https://www.leeddev.io/)**
+- **[Lines Square Technologies](https://linesquaretech.com/)**
+- **[Khyber Coded](http://khybercoded.com/)**
+- **[AMI Apex](http://amiapex.com/)**
 
-### Currently learning
-Compose
+## Core Values:
+- **Challenging Projects:** I seek roles that push the boundaries of my technical and creative abilities.
+- **Team Dynamics:** Valuing great teammates and a company with strong core values.
+- **Growth and Development:** I am driven by opportunities for career advancement, structured feedback, and clear goal setting.
+- **Customer Focus:** Dedicated to ensuring customer satisfaction and maintaining high standards of quality assurance.
 
-### Things I'm good at:
-**Languages:** Android, Kotlin, Java.
+## Current Learning Focus:
+- **Jetpack Compose**
 
-### Other:
-**Languages:** Python, Swift, HTML, CSS, C/C++
-**Architectures:** MVVM, MVI
+## Technical Proficiencies:
 
-**Libraries & Tools Android:** Kotlin, Java, Flutter(Basic), Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Animations, Data Caching (Network Bound Resources), Firebase, One Signal push notifications, Material Design Guidelines (MDC), Static/Dynamic Json, Third Party libraries, Elastic Search, Rest Api, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Jetpack Compose(Beginner), Android Studio IDE, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet.
+**Primary Languages:**
+- **Android:** Kotlin, Java
 
-**Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
+**Additional Languages:**
+- Python, Swift, HTML, CSS, C/C++
+
+**Architectural Expertise:**
+- MVVM, MVI
+
+**Android Libraries & Tools:**
+- Kotlin, Java, Flutter (Basic), Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Animations, Data Caching (Network Bound Resources), Firebase, One Signal push notifications, Material Design Guidelines (MDC), Json, Third-Party Libraries, Elastic Search, Rest API, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Jetpack Compose, Android Studio IDE, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet
+
+**Python Libraries & Tools:**
+- NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab
+
+## Certifications:
+- **[Creating a Great User Experience for Mobile Apps](https://www.futurelearn.com/certificates/s1bkwnc)**
+- **[Android Development Certification](https://drive.google.com/file/d/1qz5pSGEuwODNzAri3hvRzU-NBV-a9dwQ/view?usp=sharing)**
+- **[Digital Skills Mobile Experience](https://www.futurelearn.com/certificates/pj295qs)**
+- **[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)**
+- **[Data Science with Python - IBM](https://www.coursera.org/professional-certificates/ibm-data-science)**
+
+## Awards:
+- **I am the the super debutant in current organization because of my contribution to the project with in assigned time frame.**
+- **I gained valuable insights into app design principles and techniques, learning from industry experts on crafting user-centric experiences. Hands-on activities like creating clickable prototypes enhanced my understanding and empowered me to develop my own app with confidence.**
+- **The course provided insights into mobile technology's growth and advantages, introducing design concepts and development approaches. It outlined seven key principles for effective app design and explained the Internet of Things (IoT) and its implications.**
+- **I was the runner-up in a programming contest at UET-Peshawar, completing a task within a set time frame. The contest evaluated different sections, such as UI, architecture, standard syntax, and programming practices, with corresponding points.**
+- **The government initiated Android app development workshops in institutes lasted 2-4 months, emphasizing practical programming best practices.**
 
 #### Resume
 [![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)]([https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing](https://drive.google.com/file/d/1AxU7LbZ6Ari8-JTqbQYxWY248XE-xMar/view))
