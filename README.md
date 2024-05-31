@@ -18,6 +18,7 @@ With 4 years of industry experience, I have honed my skills as an Android develo
 
 ## Current Learning Focus:
 - **Jetpack Compose**
+- **Flutter**
 
 ## Technical Proficiencies:
 
