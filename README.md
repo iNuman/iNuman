@@ -32,7 +32,7 @@ With 4+ years of industry experience, I have honed my skills as an Android devel
 - MVVM, MVI
 
 **Android Libraries & Tools:**
-- Kotlin, Java, Compose, Flutter, Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, GitHub Actions(CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Gitlab, BitBucket Animations, Data Caching (Network Bound Resources), Firebase, One Signal push notifications, Material Design Guidelines (MDC), Json, Third-Party Libraries, Elastic Search, Rest API, Reqbin, PostMan, Swagger, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Android Studio IDE, Fleet, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo
+- Kotlin, Java, Compose, Flutter, Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, GitHub Actions(CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Gitlab, BitBucket Animations, Firebase, One Signal push notifications, Material Design Guidelines (MDC), Json, Third-Party Libraries, Elastic Search, Rest API, Reqbin, PostMan, Swagger, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Android Studio IDE, Fleet, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo
 
 **Python Libraries & Tools:**
 - NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab
