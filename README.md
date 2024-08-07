@@ -5,31 +5,31 @@
 With 4+ years of industry experience, I have honed my skills as an Android developer since 2020, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently positioned as a Android Developer at **[Convo](https://www.convo.com)**, I thrive in environments that challenge me and provide opportunities for growth and innovation.
 
 ## Professional Experience:
+- **[Convo](https://www.convo.com)**
 - **[Leed | Software Development Company](https://www.leeddev.io/)**
 - **[Lines Square Technologies](https://linesquaretech.com/)**
 - **[Khyber Coded](http://khybercoded.com/)**
 - **[AMI Apex](http://amiapex.com/)**
 
-## Core Values:
-- **Challenging Projects:** I seek roles that push the boundaries of my technical and creative abilities.
-- **Team Dynamics:** Valuing great teammates and a company with strong core values.
-- **Growth and Development:** I am driven by opportunities for career advancement, structured feedback, and clear goal setting.
-- **Customer Focus:** Dedicated to ensuring customer satisfaction and maintaining high standards of quality assurance.
-
 ## Current Learning Focus:
 - **Jetpack Compose**
+- **KMM, KMP, CMP**
 - **Flutter**
 
-## Technical Proficiencies:
+## Technical Proficiencies
 
-**Primary Languages:**
-- **Android:** Kotlin, Java
+| Category                 | Skills                                                                                                       |
+|--------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Primary Languages**    | Kotlin, Java                                                                                                 |
+| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs                                                                              |
+| **Architectural Expertise** | MVVM, MVI, MVC                                                                                               |
 
-**Additional Languages:**
-- Python, Swift, HTML, CSS, C/C++
 
-**Architectural Expertise:**
-- MVVM, MVI
+## Live Projects
+
+- **[Convo](https://play.google.com/store/apps/details?id=com.convo.android&pcampaignid=web_share)**: It is a business collaboration tool for fast-moving teams to centrally share, organize, and archive information securely. Our real time messaging and smart notifications can help complete projects faster than ever. With Convo, ask your team a question, share a project update, preview files, or leave clear feedback from anywhere. Put your brainpower all in one place.
+- **[BeMe Health](https://play.google.com/store/apps/details?id=com.bememultiplatform.android&pcampaignid=web_share)**: Transform your life and become mentally healthy by tracking your moods every day. We’ll show you personalised content, insights, and patterns to help you manage stress, cope with intense feelings, make better decisions, set & achieve your goals, and be your bes.
+- **[Whats Manager](https://play.google.com/store/apps/details?id=com.numan.whatsstatussaverapp)**: It's personal app to integrate learning of latest tech stacks along with getting familarity with Google Play Console guidelines the app is 80 percent written in compose, supports Kotlin 2.0, Kotlin DSl, detekt, GitHub CI/CD, Gradle 8.7, Work Manger.
 
 **Android Libraries & Tools:**
 - Kotlin, Java, Compose, Flutter, Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, GitHub Actions(CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Gitlab, BitBucket Animations, Firebase, One Signal push notifications, Analytics(Firebase, MixPanel), Material Design Guidelines (MDC), Rest API, Reqbin, PostMan, Swagger, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Android Studio IDE, Fleet, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo
