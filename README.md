@@ -58,8 +58,10 @@ With 4+ years of industry experience, I have honed my skills as an Android devel
 - **I was the runner-up in a programming contest at UET-Peshawar, completing a task within a set time frame. The contest evaluated different sections, such as UI, architecture, standard syntax, and programming practices, with corresponding points.**
 - **The government initiated Android app development workshops in institutes lasted 2-4 months, emphasizing practical programming best practices.**
 
-#### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)]([https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing](https://drive.google.com/file/d/1AxU7LbZ6Ari8-JTqbQYxWY248XE-xMar/view))
+### Resume
+[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://registry.jsonresume.org/iNuman?theme=kendall)
+
+<!--[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)]([https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing](https://drive.google.com/file/d/1AxU7LbZ6Ari8-JTqbQYxWY248XE-xMar/view))-->
 <!--[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)-->
 
 
