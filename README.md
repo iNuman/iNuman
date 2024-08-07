@@ -4,26 +4,10 @@
 
 With 4+ years of industry experience, I have honed my skills as an Android developer since 2020, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently positioned as a Android Developer at **[Convo](https://www.convo.com)**, I thrive in environments that challenge me and provide opportunities for growth and innovation.
 
-## Professional Experience:
-- **[Convo](https://www.convo.com)**
-- **[Leed | Software Development Company](https://www.leeddev.io/)**
-- **[Lines Square Technologies](https://linesquaretech.com/)**
-- **[Khyber Coded](http://khybercoded.com/)**
-- **[AMI Apex](http://amiapex.com/)**
-
 ## Current Learning Focus:
 - **Jetpack Compose**
 - **KMM, KMP, CMP**
 - **Flutter**
-
-## Technical Proficiencies
-
-| Category                 | Skills                                                                                                       |
-|--------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Primary Languages**    | Kotlin, Java                                                                                                 |
-| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs                                                                              |
-| **Architectural Expertise** | MVVM, MVI, MVC                                                                                               |
-
 
 ## Live Projects
 
@@ -31,11 +15,34 @@ With 4+ years of industry experience, I have honed my skills as an Android devel
 - **[BeMe Health](https://play.google.com/store/apps/details?id=com.bememultiplatform.android&pcampaignid=web_share)**: Transform your life and become mentally healthy by tracking your moods every day. We’ll show you personalised content, insights, and patterns to help you manage stress, cope with intense feelings, make better decisions, set & achieve your goals, and be your bes.
 - **[Whats Manager](https://play.google.com/store/apps/details?id=com.numan.whatsstatussaverapp)**: It's personal app to integrate learning of latest tech stacks along with getting familarity with Google Play Console guidelines the app is 80 percent written in compose, supports Kotlin 2.0, Kotlin DSl, detekt, GitHub CI/CD, Gradle 8.7, Work Manger.
 
-**Android Libraries & Tools:**
-- Kotlin, Java, Compose, Flutter, Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components, GitHub Actions(CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions), Dependency Injection (Hilt), GitHub, Gitlab, BitBucket Animations, Firebase, One Signal push notifications, Analytics(Firebase, MixPanel), Material Design Guidelines (MDC), Rest API, Reqbin, PostMan, Swagger, In-App Messaging (Firebase, One Signal), Remote Configuration, Retrofit, Gson, Okhttp Interceptors, Android Studio IDE, Fleet, Sublime, VS-Code, Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo
 
-**Python Libraries & Tools:**
-- NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab
+## Technical Proficiencies
+
+| Category                 | Skills                                                                                                       |
+|--------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Primary Languages**    | Kotlin, Java                                                                                                 |
+| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs                                                                      |
+| **Architectural Expertise** | MVVM, MVI, MVC                                                                                            |
+
+
+| **Android Libraries & Tools**                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Kotlin, Java, Compose, Flutter                                                                                                          |
+| Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components                                                               |
+| GitHub Actions (CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions)                                     |
+| Dependency Injection (Hilt), GitHub, Gitlab, BitBucket                                                                                  |
+| Animations, Firebase, One Signal push notifications                                                                                     |
+| Analytics (Firebase, MixPanel), Material Design Guidelines (MDC)                                                                        |
+| Rest API, Reqbin, PostMan, Swagger                                                                                                      |
+| In-App Messaging (Firebase, One Signal), Remote Configuration                                                                           |
+| Retrofit, Gson, Okhttp Interceptors                                                                                                     |
+| Android Studio IDE, Fleet, Sublime, VS-Code                                                                                             |
+| Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo                                                                                   |
+
+
+| **Python Libraries & Tools**                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab                                        |
 
 ## Certifications:
 - **[Creating a Great User Experience for Mobile Apps](https://www.futurelearn.com/certificates/s1bkwnc)**
