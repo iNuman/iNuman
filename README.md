@@ -5,6 +5,7 @@
 With 4+ years of industry experience, I have honed my skills as an Android developer since 2020, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently positioned as a Android Developer at **[Convo](https://www.convo.com)**, I thrive in environments that challenge me and provide opportunities for growth and innovation.
 
 ## Current Learning Focus:
+- **React Native**
 - **Jetpack Compose**
 - **KMM, KMP, CMP**
 - **Flutter**
