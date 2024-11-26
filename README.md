@@ -6,9 +6,9 @@ With 4+ years of industry experience, I have honed my skills as an Android devel
 
 ## Current Learning Focus:
 - **React Native**
-- **Jetpack Compose**
-- **KMM, KMP, CMP**
 - **Flutter**
+- **Jetpack Compose**
+- **KMP/CMP**
 
 ## Live Projects
 
