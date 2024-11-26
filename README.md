@@ -22,14 +22,14 @@ With 4+ years of industry experience, I have honed my skills as an Android devel
 | Category                 | Skills                                                                                                       |
 |--------------------------|--------------------------------------------------------------------------------------------------------------|
 | **Primary Languages**    | Kotlin, Java                                                                                                 |
-| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs                                                                      |
+| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs, React Native (Typescript, Javascript), Flutter                      |
 | **Architectural Expertise** | MVVM, MVI, MVC                                                                                            |
 
 
 | **Android Libraries & Tools**                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
-| Kotlin, Java, Compose, Flutter                                                                                                          |
-| Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components                                                               |
+| Kotlin, Java, Compose, React Native (Typescript, Javascript), Flutter                                                                   |
+| KMP/CMP,Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components                                                       |
 | GitHub Actions (CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions)                                     |
 | Dependency Injection (Hilt), GitHub, Gitlab, BitBucket                                                                                  |
 | Animations, Firebase, One Signal push notifications                                                                                     |
