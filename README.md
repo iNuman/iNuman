@@ -14,7 +14,7 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 
 - **[Convo](https://play.google.com/store/apps/details?id=com.convo.android&pcampaignid=web_share)**: It is a business collaboration tool for fast-moving teams to centrally share, organize, and archive information securely. Our real time messaging and smart notifications can help complete projects faster than ever. With Convo, ask your team a question, share a project update, preview files, or leave clear feedback from anywhere. Put your brainpower all in one place.
 - **[BeMe Health](https://play.google.com/store/apps/details?id=com.bememultiplatform.android&pcampaignid=web_share)**: Transform your life and become mentally healthy by tracking your moods every day. We’ll show you personalised content, insights, and patterns to help you manage stress, cope with intense feelings, make better decisions, set & achieve your goals, and be your bes.
-- **[Whats Manager](https://play.google.com/store/apps/details?id=com.numan.whatsstatussaverapp)**: It's personal app to integrate learning of latest tech stacks along with getting familarity with Google Play Console guidelines the app is 80 percent written in compose, supports Kotlin 2.0, Kotlin DSl, detekt, GitHub CI/CD, Gradle 8.7, Work Manger.
+- **[Whats Manager](https://play.google.com/store/apps/details?id=com.numan.whatsstatussaverapp)**: It's personal app to integrate learning of latest tech stacks along with getting familarity with Google Play Console guidelines the app is written in compose, supports Kotlin 2.0, Kotlin DSl, detekt, GitHub CI/CD, Gradle 8.7, Work Manger.
 
 
 ## Technical Proficiencies
