@@ -11,14 +11,6 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 - **KMP/CMP**
 
 
-## OpenSource Projects
-
-- **[CMP Clean Architecture Auth App](https://github.com/iNuman/CmpAuthenticationCleanArchitectureMVI/blob/master/README.md)**: A ready to use KMP/CMP auth sample with clean architecture with moke api source to test the login sign up without the need to backend setup along with local database handling for login user.
-- **[Flutter Clean Architecture Auth App](https://github.com/iNuman/LoginSignUpCleanArchitectureApp/blob/master/README.md)**: A ready to use Flutter auth sample with clean architecture with proper state management using Block and Cubit. The app handles local database for login/Sign Up users aswell, you'll be setting up backend I added below along with the instruction to run it locally to test the login signup flow.
-- **[React Native Expo Clean Auth Sample](https://github.com/iNuman/react_clean_app/blob/master/README.md)**:  A ready to use React Native Expo auth sample with clean code along proper state and Api management using Redux and Tanstack Query. The app handles local database for login/Sign Up users aswell, you'll be setting up backend I added below along with the instruction to run it locally to test the login signup flow.
-- **[Backend Sample for Auth Testing](https://github.com/iNuman/BackendAuthentcationForApps/blob/master/README.md)**: A ready to use Backend Sample to test the Above apps.
-
-
 ## Live Projects
 
 - **[Convo](https://play.google.com/store/apps/details?id=com.convo.android&pcampaignid=web_share)**: It is a business collaboration tool for fast-moving teams to centrally share, organize, and archive information securely. Our real time messaging and smart notifications can help complete projects faster than ever. With Convo, ask your team a question, share a project update, preview files, or leave clear feedback from anywhere. Put your brainpower all in one place.
