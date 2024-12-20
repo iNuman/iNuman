@@ -39,7 +39,7 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 | In-App Messaging (Firebase, One Signal), Remote Configuration                                                                           |
 | Retrofit, Gson, Okhttp Interceptors, Tanstack, Bloc/Cubit, Redux, Axios, Context Provider                                               |
 | Android Studio IDE, Fleet, Sublime, VS-Code                                                                                             |
-| Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo                                                                                   |
+| Linux (Ubuntu, Kali), Jira, Slack, Google Meet                                                                                   |
 
 
 | **Python Libraries & Tools**                                                                                                            |
