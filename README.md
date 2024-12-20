@@ -37,7 +37,7 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 | Analytics (Firebase, MixPanel), Material Design Guidelines (MDC)                                                                        |
 | Rest API, Reqbin, PostMan, Swagger                                                                                                      |
 | In-App Messaging (Firebase, One Signal), Remote Configuration                                                                           |
-| Retrofit, Gson, Okhttp Interceptors                                                                                                     |
+| Retrofit, Gson, Okhttp Interceptors, Tanstack, //Bloc/Cubit, Redux, Axios, Context Provider                                               |
 | Android Studio IDE, Fleet, Sublime, VS-Code                                                                                             |
 | Linux (Ubuntu, Kali), Jira, Slack, Google Meet, Convo                                                                                   |
 
