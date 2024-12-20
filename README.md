@@ -31,7 +31,7 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 |-----------------------------------------------------------------------------------------------------------------------------------------|
 | Kotlin, Java, Compose, React Native (Typescript, Javascript), Flutter                                                                   |
 | KMP/CMP,Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components                                                       |
-| GitHub Actions (CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions)                                     |
+| GitHub Actions (CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Pais, Subscriptions)                                     |
 | Dependency Injection (Hilt), GitHub, Gitlab, BitBucket                                                                                  |
 | Animations, Firebase, One Signal push notifications                                                                                     |
 | Analytics (Firebase, MixPanel), Material Design Guidelines (MDC)                                                                        |
