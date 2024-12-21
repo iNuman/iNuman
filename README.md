@@ -1,4 +1,4 @@
-![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
+![**Hello there*](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
 # Experienced Android | Mobile Application Developer | Computer Science Graduate
 
