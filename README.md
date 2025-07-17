@@ -22,8 +22,7 @@ With 4+ years of industry experience, I have honed my skills as an Android/Mobil
 
 | Category                 | Skills                                                                                                       |
 |--------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Primary Languages**    | Kotlin, Java                                                                                                 |
-| **Additional Languages** | Python, Swift, HTML, CSS, C/C++, NodsJs, React Native (Typescript, Javascript), Flutter                      |
+| **Programming Languages**    | Kotlin, Java, Python, Swift, HTML, CSS, C/C++, NodsJs, React Native (Typescript, Javascript), Flutter    |                          
 | **Architectural Expertise** | MVVM, MVI, MVC                                                                                            |
 
 
