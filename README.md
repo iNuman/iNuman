@@ -1,15 +1,11 @@
 ![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
-# Experienced Mobile Application Developer | Computer Science Graduate
+# Masters Student - Image Processing | Experienced Mobile Application Developer
 
-With 4+ years of industry experience, I have honed my skills as an Android/Mobile developer since end of 2020, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently positioned as a Android Developer at **[Convo](https://www.convo.com)**, I thrive in environments that challenge me and provide opportunities for growth and innovation.
+With years of industry experience, I have honed my skills as an Android/Mobile developer since end of 2021, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently doing masters in Image Processing from The University of Electro-Communication, I thrive in environments that challenge me and provide opportunities for growth and innovation.
 
 ## Current Learning Focus:
-- **Jetpack Compose**
-- **KMP/CMP**
-- **React Native**
-- **Flutter**
-
+- **Python - Image Processing, Deep Learning, Transfer Learning**
 
 ## Live Projects
 
