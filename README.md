@@ -1,71 +1,90 @@
-![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
+# Ali Noman
 
-# Masters Student - Image Processing | Experienced Mobile Application Developer
+### Medical Image AI Researcher | Mobile Health-Tech Engineer
 
-With years of industry experience, I have honed my skills as an Android/Mobile developer since end of 2021, actively collaborating across diverse product areas including scrum, refinement, and UI/UX design. Currently doing masters in Image Processing from The University of Electro-Communication, I thrive in environments that challenge me and provide opportunities for growth and innovation.
+I am a Master's student in Image Processing and Computer Vision at **The University of Electro-Communications, Tokyo**, working on deep learning methods for medical image analysis with a focus on reliability and interpretability. I am also reproducing and studying code from previously published research papers to better understand existing methods, verify reported results, and build fairer comparisons for future model development.
 
-## Current Learning Focus:
-- **Python - Image Processing, Deep Learning, Transfer Learning**
+Alongside research, I have professional experience building production mobile applications, especially in health-tech systems involving medical image capture, preprocessing, AI pipeline integration, secure patient workflows, and cloud-connected mobile architecture.
 
-## Live Projects
+---
 
-- **[Convo](https://play.google.com/store/apps/details?id=com.convo.android&pcampaignid=web_share)**: It is a business collaboration tool for fast-moving teams to centrally share, organize, and archive information securely. Our real time messaging and smart notifications can help complete projects faster than ever. With Convo, ask your team a question, share a project update, preview files, or leave clear feedback from anywhere. Put your brainpower all in one place.
-- **[BeMe Health](https://play.google.com/store/apps/details?id=com.bememultiplatform.android&pcampaignid=web_share)**: Transform your life and become mentally healthy by tracking your moods every day. We’ll show you personalised content, insights, and patterns to help you manage stress, cope with intense feelings, make better decisions, set & achieve your goals, and be your bes.
-- **[Whats Manager](https://play.google.com/store/apps/details?id=com.numan.whatsstatussaverapp)**: It's personal app to integrate learning of latest tech stacks along with getting familarity with Google Play Console guidelines the app is written in compose, supports Kotlin 2.0, Kotlin DSl, detekt, GitHub CI/CD, Gradle 8.7, Work Manger.
+## Current Focus
 
+- Retinal image analysis and medical image classification  
+- CNN and hybrid CNN–Vision Transformer models  
+- Explainable AI using Grad-CAM  
+- Multi-label classification and evaluation strategies  
+- Mobile health-tech systems and AI-assisted workflows  
+- Edge-ready and privacy-aware healthcare applications  
 
-## Technical Proficiencies
+---
 
-| Category                 | Skills                                                                                                       |
-|--------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**    | Kotlin, Java, Python, Swift, HTML, CSS, C/C++, NodsJs, React Native (Typescript, Javascript), Flutter    |                          
-| **Architectural Expertise** | MVVM, MVI, MVC                                                                                            |
+## Research & AI
 
+- Developing deep learning pipelines for retinal disease diagnosis using public fundus imaging datasets.  
+- Comparing CNN architectures such as ConvNeXt, EfficientNet, ResNet, DenseNet, Inception, and MobileNet.  
+- Exploring hybrid CNN–Transformer models for improved performance and robustness.  
+- Studying evaluation metrics including AUC, mAP, and F1-score, along with threshold tuning strategies.  
+- Maintaining structured experiment logs and reproducible research workflows.  
 
-| **Android Libraries & Tools**                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Kotlin, Java, Compose, React Native (Typescript, Javascript), Flutter                                                                   |
-| KMP/CMP,Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components                                                       |
-| GitHub Actions (CI/CD), detekt, Sonarqube, Payment Gateways (Google IAP, Easy Paisa, Subscriptions)                                     |
-| Dependency Injection (Hilt), GitHub, Gitlab, BitBucket                                                                                  |
-| Animations, Firebase, One Signal push notifications                                                                                     |
-| Analytics (Firebase, MixPanel), Material Design Guidelines (MDC)                                                                        |
-| Rest API, Reqbin, PostMan, Swagger                                                                                                      |
-| In-App Messaging (Firebase, One Signal), Remote Configuration                                                                           |
-| Retrofit, Gson, Okhttp Interceptors, Tanstack, Bloc/Cubit, Redux, Axios, Context Provider                                               |
-| Android Studio IDE, Fleet, Sublime, VS-Code                                                                                             |
-| Linux (Ubuntu, Kali), Jira, Slack, Google Meet                                                                                   |
+---
 
+## Past Projects
 
-| **Python Libraries & Tools**                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-| NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab                                        |
+### SkinCheck - Mobile Health-Tech AI System
 
-## Certifications:
-- **[Creating a Great User Experience for Mobile Apps](https://www.futurelearn.com/certificates/s1bkwnc)**
-- **[Android Development Certification](https://drive.google.com/file/d/1qz5pSGEuwODNzAri3hvRzU-NBV-a9dwQ/view?usp=sharing)**
-- **[Digital Skills Mobile Experience](https://www.futurelearn.com/certificates/pj295qs)**
-- **[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)**
-- **[Data Science with Python - IBM](https://www.coursera.org/professional-certificates/ibm-data-science)**
+Built mobile features for secure lesion image capture, patient workflows, dermatologist consultation, and AI-assisted skin analysis. Worked on medical image preprocessing, body-part cropping, selfie-camera scanning, image normalization, Firebase/Google Cloud integration, and Vertex AI-based classification workflows.
 
-## Awards:
-- **I am the the super debutant in current organization because of my contribution to the project with in assigned time frame.**
-- **I gained valuable insights into app design principles and techniques, learning from industry experts on crafting user-centric experiences. Hands-on activities like creating clickable prototypes enhanced my understanding and empowered me to develop my own app with confidence.**
-- **The course provided insights into mobile technology's growth and advantages, introducing design concepts and development approaches. It outlined seven key principles for effective app design and explained the Internet of Things (IoT) and its implications.**
-- **I was the runner-up in a programming contest at UET-Peshawar, completing a task within a set time frame. The contest evaluated different sections, such as UI, architecture, standard syntax, and programming practices, with corresponding points.**
-- **The government initiated Android app development workshops in institutes lasted 2-4 months, emphasizing practical programming best practices.**
+### Convo
 
-### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://registry.jsonresume.org/iNuman?theme=kendall)
+Contributed to production mobile application development for a business collaboration platform supporting real-time communication, secure information sharing, smart notifications, and team productivity workflows.
 
-<!--[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)]([https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing](https://drive.google.com/file/d/1AxU7LbZ6Ari8-JTqbQYxWY248XE-xMar/view))-->
-<!--[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)-->
+### Whats Manager
 
+Personal Android project built to explore modern Android development practices including Jetpack Compose, Kotlin, Google Play Console guidelines, Gradle, CI/CD, Detekt, and WorkManager.
 
-### How to reach me 📱
-Known on internet as [**Numansfolio**](https://www.numansfolio.ml/) 
+---
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/923127746663) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/UUZ8rtYW9Z0l) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/-inuman/)
+## Technical Skills
 
+### AI / Deep Learning
 
+`Python` `PyTorch` `TensorFlow` `Keras` `CNNs` `Vision Transformers` `Grad-CAM` `OpenCV` `scikit-learn` `Medical Image Classification` `Multi-label Classification` `Model Evaluation`
 
+### Data & Research
+
+`NumPy` `Pandas` `Matplotlib` `Jupyter` `LaTeX` `Overleaf` `Experiment Tracking` `Literature Review` `Reproducibility Analysis`
+
+### Mobile & Software Engineering
+
+`Kotlin` `Java` `TypeScript` `JavaScript` `Dart` `Swift` `Android` `Jetpack Compose` `React Native` `Flutter` `REST APIs` `Firebase` `Google Cloud` `Vertex AI`
+
+### Tools
+
+`Git` `GitHub` `GitLab` `Bitbucket` `Jira` `VS Code` `PyCharm` `IntelliJ IDEA` `Android Studio` `Figma` `Adobe XD`
+
+---
+
+## Certifications
+
+- Facial Expression Recognition with PyTorch - Coursera  
+- Deep Learning with PyTorch: Grad-CAM - Coursera  
+- Deep Learning with PyTorch: Image Segmentation - Coursera  
+- Machine Learning - Stanford University / Coursera  
+- Data Science with Python - IBM  
+- Creating a Great User Experience for Mobile Apps  
+- Android Development Certification  
+
+---
+
+## Connect
+
+- GitHub: [github.com/iNuman](https://github.com/iNuman)  
+- LinkedIn: [linkedin.com/in/-inuman](https://www.linkedin.com/in/-inuman/)  
+- Email: [inuumaan@gmail.com](mailto:inuumaan@gmail.com)  
+
+---
+
+<p align="center">
+  <i>Building reliable medical AI and production-ready mobile health systems.</i>
+</p>
