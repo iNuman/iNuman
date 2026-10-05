@@ -1,90 +1,150 @@
 # Ali Noman
 
-### Medical Image AI Researcher | Mobile Health-Tech Engineer
+### Medical Computer Vision Researcher | Reliable & Generalizable Medical AI
 
-I am a Master's student in Image Processing and Computer Vision at **The University of Electro-Communications, Tokyo**, working on deep learning methods for medical image analysis with a focus on reliability and interpretability. I am also reproducing and studying code from previously published research papers to better understand existing methods, verify reported results, and build fairer comparisons for future model development.
+I am a Master's researcher in Informatics at **The University of Electro-Communications (UEC), Tokyo**, supported by the **MEXT Scholarship**.
 
-Alongside research, I have professional experience building production mobile applications, especially in health-tech systems involving medical image capture, preprocessing, AI pipeline integration, secure patient workflows, and cloud-connected mobile architecture.
+My research focuses on **medical computer vision**, particularly retinal image analysis, multi-label disease classification, CNN–Transformer architectures, reliable evaluation, and model generalization across datasets.
 
----
+I am especially interested in developing medical AI systems that are **efficient, interpretable, reproducible, and robust beyond a single dataset**.
 
-## Current Focus
-
-- Retinal image analysis and medical image classification  
-- CNN and hybrid CNN–Vision Transformer models  
-- Explainable AI using Grad-CAM  
-- Multi-label classification and evaluation strategies  
-- Mobile health-tech systems and AI-assisted workflows  
-- Edge-ready and privacy-aware healthcare applications  
+My current interests are gradually expanding toward **multimodal medical AI, vision-language models, and medical foundation models**.
 
 ---
 
-## Research & AI
+## Research Interests
 
-- Developing deep learning pipelines for retinal disease diagnosis using public fundus imaging datasets.  
-- Comparing CNN architectures such as ConvNeXt, EfficientNet, ResNet, DenseNet, Inception, and MobileNet.  
-- Exploring hybrid CNN–Transformer models for improved performance and robustness.  
-- Studying evaluation metrics including AUC, mAP, and F1-score, along with threshold tuning strategies.  
-- Maintaining structured experiment logs and reproducible research workflows.  
-
----
-
-## Past Projects
-
-### SkinCheck - Mobile Health-Tech AI System
-
-Built mobile features for secure lesion image capture, patient workflows, dermatologist consultation, and AI-assisted skin analysis. Worked on medical image preprocessing, body-part cropping, selfie-camera scanning, image normalization, Firebase/Google Cloud integration, and Vertex AI-based classification workflows.
-
-### Convo
-
-Contributed to production mobile application development for a business collaboration platform supporting real-time communication, secure information sharing, smart notifications, and team productivity workflows.
-
-### Whats Manager
-
-Personal Android project built to explore modern Android development practices including Jetpack Compose, Kotlin, Google Play Console guidelines, Gradle, CI/CD, Detekt, and WorkManager.
+- Medical computer vision
+- Retinal and ophthalmic image analysis
+- Multi-label disease recognition
+- CNN–Transformer architectures
+- Model efficiency
+- External validation and dataset shift
+- Rare-disease and long-tail learning
+- Explainable medical AI
+- Zero-shot and few-shot learning
+- Multimodal medical AI
+- Vision-language and medical foundation models
 
 ---
 
-## Technical Skills
+## Current Research Direction
 
-### AI / Deep Learning
+My current work investigates reliable multi-disease retinal image analysis using deep learning, with particular attention to:
 
-`Python` `PyTorch` `TensorFlow` `Keras` `CNNs` `Vision Transformers` `Grad-CAM` `OpenCV` `scikit-learn` `Medical Image Classification` `Multi-label Classification` `Model Evaluation`
+- compact CNN–Transformer architectures
+- class imbalance and rare disease labels
+- disease-wise evaluation
+- reproducible experimental design
+- model efficiency
+- external validation across retinal datasets
+- robustness and generalization
 
-### Data & Research
-
-`NumPy` `Pandas` `Matplotlib` `Jupyter` `LaTeX` `Overleaf` `Experiment Tracking` `Literature Review` `Reproducibility Analysis`
-
-### Mobile & Software Engineering
-
-`Kotlin` `Java` `TypeScript` `JavaScript` `Dart` `Swift` `Android` `Jetpack Compose` `React Native` `Flutter` `REST APIs` `Firebase` `Google Cloud` `Vertex AI`
-
-### Tools
-
-`Git` `GitHub` `GitLab` `Bitbucket` `Jira` `VS Code` `PyCharm` `IntelliJ IDEA` `Android Studio` `Figma` `Adobe XD`
+I also reproduce and independently evaluate previously published methods when necessary to establish **fair and reproducible baselines** for new model development.
 
 ---
 
-## Certifications
+## Research Goals
 
-- Facial Expression Recognition with PyTorch - Coursera  
-- Deep Learning with PyTorch: Grad-CAM - Coursera  
-- Deep Learning with PyTorch: Image Segmentation - Coursera  
-- Machine Learning - Stanford University / Coursera  
-- Data Science with Python - IBM  
-- Creating a Great User Experience for Mobile Apps  
-- Android Development Certification  
+I am particularly interested in three broader questions:
+
+**How well do medical AI models generalize beyond their training datasets?**
+
+**Can compact models retain strong performance while reducing computational and memory requirements?**
+
+**How can predictions be supported by interpretable and clinically meaningful evidence?**
+
+These questions are shaping my longer-term interest in **generalizable and multimodal biomedical AI**.
+
+---
+
+## Engineering Background
+
+Before focusing full-time on research, I worked as a **Mobile Engineer at Convo Corp.**, contributing to production applications used by more than **100K users**.
+
+My health-tech engineering work included:
+
+- medical image capture and preprocessing
+- AI inference pipeline integration
+- cloud-connected healthcare workflows
+- Vertex AI integration
+- on-device face recognition
+- experimental on-device language-model inference
+- privacy-aware mobile architectures
+
+This software engineering background influences how I approach research, particularly in terms of **efficiency, reproducibility, deployment constraints, and practical system design**.
+
+---
+
+## Technical Stack
+
+### AI & Research
+
+`Python`
+`PyTorch`
+`TensorFlow`
+`Keras`
+`OpenCV`
+`scikit-learn`
+`NumPy`
+`Pandas`
+`Matplotlib`
+`CNNs`
+`Vision Transformers`
+`Multi-label Learning`
+`Grad-CAM`
+`Model Evaluation`
+`External Validation`
+
+### Engineering
+
+`Kotlin`
+`Java`
+`Dart`
+`TypeScript`
+`Flutter`
+`React Native`
+`Docker`
+`Firebase`
+`Google Cloud`
+`Vertex AI`
+`Git`
+`CI/CD`
+
+---
+
+## Selected Achievements
+
+- **MEXT Scholarship**, Government of Japan
+- **1st Place — UEC Data Mining Kaggle Competition, 2026**
+- **SEIKO Scholarship**, Poznań University of Technology
+- Poster presenter at the **55th UEC International mini-Conference on Informatics, Sciences and Engineering**
+
+---
+
+## Research Collaboration
+
+I am interested in research collaborations and fully funded PhD opportunities in:
+
+- medical computer vision
+- biomedical AI
+- multimodal medical AI
+- foundation models
+- ophthalmic imaging
+- trustworthy and explainable AI
+- domain generalization
+- representation learning
 
 ---
 
 ## Connect
 
-- GitHub: [github.com/iNuman](https://github.com/iNuman)  
-- LinkedIn: [linkedin.com/in/-inuman](https://www.linkedin.com/in/-inuman/)  
-- Email: [inuumaan@gmail.com](mailto:inuumaan@gmail.com)  
+**Email:** [inuumaan@gmail.com](mailto:inuumaan@gmail.com)  
+**LinkedIn:** [linkedin.com/in/-inuman](https://www.linkedin.com/in/-inuman/)  
+**GitHub:** [github.com/iNuman](https://github.com/iNuman)
 
 ---
 
 <p align="center">
-  <i>Building reliable medical AI and production-ready mobile health systems.</i>
+  <i>Building reliable, efficient, and generalizable medical AI.</i>
 </p>
