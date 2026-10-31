@@ -1,6 +1,6 @@
 # Ali Noman
 
-### Medical Computer Vision Researcher | Reliable & Generalizable Medical AI
+### Image Processing | Computer Vision | MLLMs and VLMs
 
 I am a Master's researcher in Informatics at **The University of Electro-Communications (UEC), Tokyo**, supported by the **MEXT Scholarship**.
 
