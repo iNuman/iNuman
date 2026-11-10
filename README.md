@@ -11,13 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UEC_Tokyo-Master's_in_Informatics-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
-  <img src="https://img.shields.io/badge/MEXT-Scholar-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
-  <img src="https://img.shields.io/badge/Kaggle-1st_Place-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" alt="badge" />
-  <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-Submitted-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
-</p>
-
-<p align="center">
 I build vision models that are small enough to run where they are needed<br>
 and reliable on data they never saw. Before research, I spent two years shipping<br>
 AI features to more than <b>100K users</b>. I work on both sides, the model and the product.
