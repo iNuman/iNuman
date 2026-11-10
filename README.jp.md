@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E5%AD%A6-%E6%83%85%E5%A0%B1%E5%AD%A6_%E4%BF%AE%E5%A3%AB-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
   <img src="https://img.shields.io/badge/MEXT-%E5%A5%A8%E5%AD%A6%E7%94%9F-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
-  <img src="https://img.shields.io/badge/Kaggle-1%E4%BD%8D-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" alt="badge" />
   <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-%E6%8A%95%E7%A8%BF%E6%B8%88%E3%81%BF-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
 </p>
 
