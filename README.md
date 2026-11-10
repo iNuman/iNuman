@@ -1,150 +1,81 @@
 # Ali Noman
 
-### Image Processing | Computer Vision | MLLMs and VLMs
+<a href="https://github.com/iNuman">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=39D353&vCenter=true&width=600&lines=Image+Processing+Researcher;Computer+Vision+Researcher;Medical+Image+Analysis;Compact+CNN+and+Transformer+Models;Mobile+Engineer+with+100K%2B+users" alt="Typing animation" />
+</a>
 
-I am a Master's researcher in Informatics at **The University of Electro-Communications (UEC), Tokyo**, supported by the **MEXT Scholarship**.
+Master's researcher in Informatics at **The University of Electro-Communications (UEC), Tokyo**, on the **MEXT Scholarship**.
 
-My research focuses on **medical computer vision**, particularly retinal image analysis, multi-label disease classification, CNN–Transformer architectures, reliable evaluation, and model generalization across datasets.
-
-I am especially interested in developing medical AI systems that are **efficient, interpretable, reproducible, and robust beyond a single dataset**.
-
-My current interests are gradually expanding toward **multimodal medical AI, vision-language models, and medical foundation models**.
+I build vision models that are small enough to run where they are needed and reliable on data they never saw. Before research, I spent two years as a mobile engineer shipping AI features to more than **100K users**. I work on both sides, the model and the product.
 
 ---
 
-## Research Interests
+## Research
 
-- Medical computer vision
-- Retinal and ophthalmic image analysis
-- Multi-label disease recognition
-- CNN–Transformer architectures
-- Model efficiency
-- External validation and dataset shift
-- Rare-disease and long-tail learning
-- Explainable medical AI
-- Zero-shot and few-shot learning
-- Multimodal medical AI
-- Vision-language and medical foundation models
+**CoLaRT: Compact Label-Token CNN and Transformer for Multi-Label Retinal Disease Classification**<br>
+*Submitted to IEEE ICPRS 2027*
 
----
+- Compact label-token design, so the token count does not grow with image resolution
+- Compact backbones: ConvNeXtV2-Pico and InceptionNeXt-Atto
+- 67% fewer GFLOPs than C-Tran with DenseNet201, and 88% fewer than with ResNet152d (384×384)
+- Pico + Atto ensemble: **0.708 mAP / 0.943 AUC** on MuReD (3-seed mean, 512×512)
 
-## Current Research Direction
+**How I work**
 
-My current work investigates reliable multi-disease retinal image analysis using deep learning, with particular attention to:
-
-- compact CNN–Transformer architectures
-- class imbalance and rare disease labels
-- disease-wise evaluation
-- reproducible experimental design
-- model efficiency
-- external validation across retinal datasets
-- robustness and generalization
-
-I also reproduce and independently evaluate previously published methods when necessary to establish **fair and reproducible baselines** for new model development.
+- Evaluate disease by disease, not only the average score
+- Report multi-seed results
+- Reproduce published methods myself to build fair baselines
+- Use Grad-CAM to check what the model actually looks at
 
 ---
 
-## Research Goals
+## Engineering
 
-I am particularly interested in three broader questions:
+**Mobile Engineer, Convo Corp. (2023 to 2025)**
 
-**How well do medical AI models generalize beyond their training datasets?**
+| App | What I built |
+|---|---|
+| [SkinCheck](https://apps.apple.com/us/app/skin-check-dermatology-care/id1468215066) | Skin lesion pipeline from image capture and preprocessing to Vertex AI inference, with pretrained models for lighter and darker skin tones |
+| [BeMe](https://play.google.com/store/apps/details?id=com.bememultiplatform.android) | Mobile features for an AI assistant app |
+| [Convo](https://play.google.com/store/apps/details?id=com.convo.android) | Mobile features for a team communication app |
+| [Energy Radio KSA](https://play.google.com/store/apps/details?id=com.energyradioksa) | Android app development |
 
-**Can compact models retain strong performance while reducing computational and memory requirements?**
+Across this work I also built on-device face recognition to cut server-side processing, and prototyped local small language model inference for scheduling and team messages.
 
-**How can predictions be supported by interpretable and clinically meaningful evidence?**
+**Personal projects**
 
-These questions are shaping my longer-term interest in **generalizable and multimodal biomedical AI**.
-
----
-
-## Engineering Background
-
-Before focusing full-time on research, I worked as a **Mobile Engineer at Convo Corp.**, contributing to production applications used by more than **100K users**.
-
-My health-tech engineering work included:
-
-- medical image capture and preprocessing
-- AI inference pipeline integration
-- cloud-connected healthcare workflows
-- Vertex AI integration
-- on-device face recognition
-- experimental on-device language-model inference
-- privacy-aware mobile architectures
-
-This software engineering background influences how I approach research, particularly in terms of **efficiency, reproducibility, deployment constraints, and practical system design**.
+- [PdfHighlighter](https://github.com/iNuman/PdfHighlighter): Android library to highlight and edit PDF text, built on MuPDF
+- [ScholarshipHunting](https://github.com/iNuman/ScholarshipHunting)
+- [Lesson Quiz](https://inuman.github.io/lesson-quiz/): Japanese vocabulary quiz web app I made while learning Japanese
 
 ---
 
-## Technical Stack
+## Skills
 
-### AI & Research
+**Research:** Python, PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, CNNs, Vision Transformers, multi-label learning, Grad-CAM, external validation
 
-`Python`
-`PyTorch`
-`TensorFlow`
-`Keras`
-`OpenCV`
-`scikit-learn`
-`NumPy`
-`Pandas`
-`Matplotlib`
-`CNNs`
-`Vision Transformers`
-`Multi-label Learning`
-`Grad-CAM`
-`Model Evaluation`
-`External Validation`
-
-### Engineering
-
-`Kotlin`
-`Java`
-`Dart`
-`TypeScript`
-`Flutter`
-`React Native`
-`Docker`
-`Firebase`
-`Google Cloud`
-`Vertex AI`
-`Git`
-`CI/CD`
+**Engineering:** Kotlin, Java, Dart, Flutter, TypeScript, React Native, Firebase, Google Cloud, Vertex AI, Docker, Git, CI/CD
 
 ---
 
-## Selected Achievements
+## Achievements
 
-- **MEXT Scholarship**, Government of Japan
-- **1st Place — UEC Data Mining Kaggle Competition, 2026**
-- **SEIKO Scholarship**, Poznań University of Technology
-- Poster presenter at the **55th UEC International mini-Conference on Informatics, Sciences and Engineering**
-
----
-
-## Research Collaboration
-
-I am interested in research collaborations and fully funded PhD opportunities in:
-
-- medical computer vision
-- biomedical AI
-- multimodal medical AI
-- foundation models
-- ophthalmic imaging
-- trustworthy and explainable AI
-- domain generalization
-- representation learning
+- **MEXT Scholarship**, Government of Japan (2025)
+- **1st Place**, UEC Data Mining Kaggle Competition (2026)
+- **SEIKO Scholarship**, Poznań University of Technology, Poland (2026)
+- Poster, 55th UEC International mini-Conference on Informatics, Sciences and Engineering (2026)
+- Bachelor thesis: drowsiness detection app with on-device AI (2020)
 
 ---
 
-## Connect
-
-**Email:** [inuumaan@gmail.com](mailto:inuumaan@gmail.com)  
-**LinkedIn:** [linkedin.com/in/-inuman](https://www.linkedin.com/in/-inuman/)  
-**GitHub:** [github.com/iNuman](https://github.com/iNuman)
-
----
+## GitHub Activity
 
 <p align="center">
-  <i>Building reliable, efficient, and generalizable medical AI.</i>
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=iNuman&theme=dark&shape=square&animation=glow&border_width=0&hide_rank=true" alt="Animated contribution graph" width="100%" />
 </p>
+
+---
+
+**Email:** inuumaan@gmail.com
+**LinkedIn:** [linkedin.com/in/-inuman](https://www.linkedin.com/in/-inuman/)
+**GitHub:** [github.com/iNuman](https://github.com/iNuman)
