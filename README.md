@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UEC_Tokyo-Master's_in_Informatics-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/MEXT-Scholar-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/Kaggle-1st_Place-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-Submitted-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
+  <img src="https://img.shields.io/badge/UEC_Tokyo-Master's_in_Informatics-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/MEXT-Scholar-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/Kaggle-1st_Place-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-Submitted-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
 </p>
 
 <p align="center">
@@ -25,12 +25,11 @@ AI features to more than <b>100K users</b>. I work on both sides, the model and 
 
 ---
 
-## 🔬 Research
+## Research
 
 <table>
 <tr>
-<td width="62%" valign="top">
-
+<td width="42%" valign="middle">
 
 ### CoLaRT
 **Compact Label-Token CNN and Transformer for Multi-Label Retinal Disease Classification**<br>
@@ -40,31 +39,25 @@ AI features to more than <b>100K users</b>. I work on both sides, the model and 
 - Compact backbones: ConvNeXtV2-Pico and InceptionNeXt-Atto
 - Evaluated on MuReD, 3-seed mean at 512×512
 
-<p>
-  <img src="https://img.shields.io/badge/mAP-0.708-39D353?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AUC-0.943-39D353?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GFLOPs-%E2%88%9267%25_to_%E2%88%9288%25-39D353?style=for-the-badge&labelColor=0D1117" />
-</p>
-
-<sub>67% fewer GFLOPs than C-Tran with DenseNet201, and 88% fewer than with ResNet152d (384×384)</sub>
-
 </td>
-<td width="38%" valign="top">
+<td width="58%" valign="middle">
 
-### How I work
-
-- 🩺 **Disease by disease** · I check every disease, not only the average score
-- 🎲 **Multi-seed** · I report mean results over several runs
-- ⚖️ **Fair baselines** · I reproduce published methods myself
-- 👁️ **Grad-CAM** · I check what the model actually looks at
+<img src="./colart-results.svg" width="100%" alt="CoLaRT results" />
 
 </td>
 </tr>
 </table>
 
+**How I work**
+
+- **Disease by disease** · I check every disease, not only the average score
+- **Multi-seed** · I report mean results over several runs
+- **Fair baselines** · I reproduce published methods myself
+- **Grad-CAM** · I check what the model actually looks at
+
 ---
 
-## 📱 Engineering
+## Engineering
 
 **Mobile Engineer, Convo Corp.** · 2023 to 2025
 
@@ -83,12 +76,12 @@ Across this work I also built on-device face recognition to cut server-side proc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Research**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="tech stack" />
 </p>
 
 <sub>Also Keras, NumPy, Pandas, Matplotlib, Seaborn, CNNs, Vision Transformers, multi-label learning, Grad-CAM, external validation</sub>
@@ -96,24 +89,24 @@ Across this work I also built on-device face recognition to cut server-side proc
 **Engineering**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,ts,react,firebase,gcp,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,ts,react,firebase,gcp,docker,git&theme=dark" alt="tech stack" />
 </p>
 
 <sub>Also Vertex AI and CI/CD</sub>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🎓 **MEXT Scholarship** · Government of Japan · 2025
-- 🥇 **1st Place** · UEC Data Mining Kaggle Competition · 2026
-- 🌍 **SEIKO Scholarship** · Poznań University of Technology, Poland · 2026
-- 🖼️ **Poster** · 55th UEC International mini-Conference on Informatics, Sciences and Engineering · 2026
-- 📄 **Bachelor thesis** · Drowsiness detection app with on-device AI · 2020
+- **MEXT Scholarship** · Government of Japan · 2025
+- **1st Place** · UEC Data Mining Kaggle Competition · 2026
+- **SEIKO Scholarship** · Poznań University of Technology, Poland · 2026
+- **Poster** · 55th UEC International mini-Conference on Informatics, Sciences and Engineering · 2026
+- **Bachelor thesis** · Drowsiness detection app with on-device AI · 2020
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://gh-motion-card.vercel.app/api/github-motion?username=iNuman&theme=dark&shape=square&animation=glow&border_width=0&hide_rank=true" alt="Animated contribution graph" width="100%" />
@@ -122,11 +115,11 @@ Across this work I also built on-device face recognition to cut server-side proc
 ---
 
 <p align="center">
-  <a href="mailto:inuumaan@gmail.com"><img src="https://img.shields.io/badge/Email-inuumaan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
-  <a href="https://www.linkedin.com/in/-inuman/"><img src="https://img.shields.io/badge/LinkedIn-Ali_Noman-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
-  <a href="https://github.com/iNuman"><img src="https://img.shields.io/badge/GitHub-iNuman-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
+  <a href="mailto:inuumaan@gmail.com"><img src="https://img.shields.io/badge/Email-inuumaan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
+  <a href="https://www.linkedin.com/in/-inuman/"><img src="https://img.shields.io/badge/LinkedIn-Ali_Noman-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
+  <a href="https://github.com/iNuman"><img src="https://img.shields.io/badge/GitHub-iNuman-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39D353,50:0E3B2E,100:0D1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39D353,50:0E3B2E,100:0D1117" width="100%" alt="" />
 </p>
