@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E5%AD%A6-%E6%83%85%E5%A0%B1%E5%AD%A6_%E4%BF%AE%E5%A3%AB-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/MEXT-%E5%A5%A8%E5%AD%A6%E7%94%9F-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/Kaggle-1%E4%BD%8D-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" />
-  <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-%E6%8A%95%E7%A8%BF%E6%B8%88%E3%81%BF-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" />
+  <img src="https://img.shields.io/badge/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E5%AD%A6-%E6%83%85%E5%A0%B1%E5%AD%A6_%E4%BF%AE%E5%A3%AB-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/MEXT-%E5%A5%A8%E5%AD%A6%E7%94%9F-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/Kaggle-1%E4%BD%8D-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0D1117&color=0E3B2E" alt="badge" />
+  <img src="https://img.shields.io/badge/IEEE_ICPRS_2027-%E6%8A%95%E7%A8%BF%E6%B8%88%E3%81%BF-161B22?style=flat-square&labelColor=0D1117&color=0E3B2E" alt="badge" />
 </p>
 
 <p align="center">
@@ -26,12 +26,11 @@
 
 ---
 
-## 🔬 研究
+## 研究
 
 <table>
 <tr>
-<td width="62%" valign="top">
-
+<td width="42%" valign="middle">
 
 ### CoLaRT
 **<ruby>網膜<rt>もうまく</rt></ruby>の病気をいくつも同時に見つける、小さなCNNとTransformerのモデル**<br>
@@ -41,31 +40,25 @@
 - 小さなバックボーン：ConvNeXtV2-Pico、InceptionNeXt-Atto
 - MuReDで、3回の平均（512×512）
 
-<p>
-  <img src="https://img.shields.io/badge/mAP-0.708-39D353?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AUC-0.943-39D353?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GFLOPs-%E2%88%9267%25_to_%E2%88%9288%25-39D353?style=for-the-badge&labelColor=0D1117" />
-</p>
-
-<sub>計算の量は、DenseNet201を使ったC-Tranより67%少なく、ResNet152dを使ったものより88%少ないです（384×384）</sub>
-
 </td>
-<td width="38%" valign="top">
+<td width="58%" valign="middle">
 
-### 研究で大切にしていること
-
-- 🩺 **病気ごとに見る** · 平均の点数だけでなく、病気ごとに結果を見ます
-- 🎲 **何回も実験** · 何回も実験して、その平均を出します
-- ⚖️ **正しく比べる** · 前の<ruby>論文<rt>ろんぶん</rt></ruby>の方法を自分で作り直します
-- 👁️ **Grad-CAM** · モデルが画像のどこを見ているか、たしかめます
+<img src="./colart-results.svg" width="100%" alt="CoLaRT results" />
 
 </td>
 </tr>
 </table>
 
+**研究で大切にしていること**
+
+- **病気ごとに見る** · 平均の点数だけでなく、病気ごとに結果を見ます
+- **何回も実験** · 何回も実験して、その平均を出します
+- **正しく比べる** · 前の<ruby>論文<rt>ろんぶん</rt></ruby>の方法を自分で作り直します
+- **Grad-CAM** · モデルが画像のどこを見ているか、たしかめます
+
 ---
 
-## 📱 開発の仕事
+## 開発の仕事
 
 **Convo Corp. モバイルエンジニア** · 2023年〜2025年
 
@@ -84,12 +77,12 @@
 
 ---
 
-## 🛠️ 使う技術
+## 使う技術
 
 **研究**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="tech stack" />
 </p>
 
 <sub>ほかに Keras, NumPy, Pandas, Matplotlib, Seaborn, CNN, Vision Transformer, Grad-CAM</sub>
@@ -97,24 +90,24 @@
 **開発**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,ts,react,firebase,gcp,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,ts,react,firebase,gcp,docker,git&theme=dark" alt="tech stack" />
 </p>
 
 <sub>ほかに Vertex AI, CI/CD</sub>
 
 ---
 
-## 🏆 <ruby>受賞<rt>じゅしょう</rt></ruby>・<ruby>奨学金<rt>しょうがくきん</rt></ruby>
+## <ruby>受賞<rt>じゅしょう</rt></ruby>・<ruby>奨学金<rt>しょうがくきん</rt></ruby>
 
-- 🎓 **MEXT奨学金** · 日本<ruby>政府<rt>せいふ</rt></ruby> · 2025年
-- 🥇 **1位** · UEC データマイニング Kaggle コンテスト · 2026年
-- 🌍 **SEIKO奨学金** · ポーランドのポズナン工科大学 · 2026年
-- 🖼️ **ポスター発表** · 第55回 UEC International mini-Conference · 2026年
-- 📄 **<ruby>卒業論文<rt>そつぎょうろんぶん</rt></ruby>** · スマホの中のAIで、ねむけを見つけるアプリ · 2020年
+- **MEXT奨学金** · 日本<ruby>政府<rt>せいふ</rt></ruby> · 2025年
+- **1位** · UEC データマイニング Kaggle コンテスト · 2026年
+- **SEIKO奨学金** · ポーランドのポズナン工科大学 · 2026年
+- **ポスター発表** · 第55回 UEC International mini-Conference · 2026年
+- **<ruby>卒業論文<rt>そつぎょうろんぶん</rt></ruby>** · スマホの中のAIで、ねむけを見つけるアプリ · 2020年
 
 ---
 
-## 📈 GitHubの活動
+## GitHubの活動
 
 <p align="center">
   <img src="https://gh-motion-card.vercel.app/api/github-motion?username=iNuman&theme=dark&shape=square&animation=glow&border_width=0&hide_rank=true&locale=ja" alt="GitHubの活動" width="100%" />
@@ -123,11 +116,11 @@
 ---
 
 <p align="center">
-  <a href="mailto:inuumaan@gmail.com"><img src="https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-inuumaan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
-  <a href="https://www.linkedin.com/in/-inuman/"><img src="https://img.shields.io/badge/LinkedIn-Ali_Noman-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
-  <a href="https://github.com/iNuman"><img src="https://img.shields.io/badge/GitHub-iNuman-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117&color=161B22" /></a>
+  <a href="mailto:inuumaan@gmail.com"><img src="https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-inuumaan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
+  <a href="https://www.linkedin.com/in/-inuman/"><img src="https://img.shields.io/badge/LinkedIn-Ali_Noman-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
+  <a href="https://github.com/iNuman"><img src="https://img.shields.io/badge/GitHub-iNuman-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117&color=161B22" alt="badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39D353,50:0E3B2E,100:0D1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39D353,50:0E3B2E,100:0D1117" width="100%" alt="" />
 </p>
