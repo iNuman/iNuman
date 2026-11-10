@@ -1,3 +1,5 @@
+<p align="right"><a href="https://github.com/iNuman/iNuman/blob/main/README.jp.md">🌐 日本語</a></p>
+
 # Ali Noman
 
 <a href="https://github.com/iNuman">
